@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsaEncryptionTRNG", "RsaEncryptionTRNG\RsaEncryptionTRNG.csproj", "{0B3430B5-44A6-447C-A724-001CE297060B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RNG", "..\RNG\RNG\RNG.csproj", "{ED33C221-F39B-4154-B407-5F2B3D047F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3430B5-44A6-447C-A724-001CE297060B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3430B5-44A6-447C-A724-001CE297060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3430B5-44A6-447C-A724-001CE297060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3430B5-44A6-447C-A724-001CE297060B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED33C221-F39B-4154-B407-5F2B3D047F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED33C221-F39B-4154-B407-5F2B3D047F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED33C221-F39B-4154-B407-5F2B3D047F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED33C221-F39B-4154-B407-5F2B3D047F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9736912-59FC-4420-94EC-6B0EA53EDE27}
+	EndGlobalSection
+EndGlobal
